@@ -21,7 +21,7 @@ Entre 1973 y 1976, Rodolfo Rosas Morales estuvo al frente del entonces Instituto
 
 <div style="text-align: center;">
 
-![Rodolfo Rosas Morales](https://kosail.github.io/Taller-de-investigacion/images/rosas_morales.png)
+![Rodolfo Rosas Morales](../../assets/rosas_morales.png)
 
 <p style="font-size: 0.9rem; color: gray;">Fotografía de Rodolfo Rosas Morales</p>
 </div>
@@ -42,7 +42,7 @@ Durante su administración se impulsó el desarrollo académico del tecnológico
 
 <div style="text-align: center;">
 
-![Herrera Perez](https://kosail.github.io/Taller-de-investigacion/herrera_perez.png)
+![Herrera Perez](../../assets/herrera_perez.png)
 
 <p style="font-size: 0.9rem; color: gray;">Fotografía de Carlos Herrera Pérez</p>
 </div>
@@ -64,7 +64,7 @@ El laboratorio también cuenta con personal especializado en ciencias de materia
 
 <div style="text-align: center;">
 
-![Organigrama del Laboratorio de materiales](https://kosail.github.io/Taller-de-investigacion/organi_materiales.png)
+![Organigrama del Laboratorio de materiales](../../assets/organi_materiales.png)
 
 <p style="font-size: 0.9rem; color: gray;">Organigrama del Laboratorio de materiales</p>
 </div>
@@ -78,7 +78,6 @@ El laboratorio está disponible para prácticas programadas de **lunes a viernes
 
 #### Contacto
 Coordinación Mecánica–Materiales: María Elena
-
 Teléfono: 844 255-7650
 
 #### Eventos académicos relacionados
@@ -154,35 +153,35 @@ Dentro de las actividades académicas vinculadas al área de materiales destacan
 <div class="gallery">
 
 <div class="gallery-item big">
-<img src="Taller-de-investigacion/images/mec1.png">
+<img src="/Taller-de-investigacion/images/mec1.png">
 </div>
 
 <div class="gallery-item">
-<img src="Taller-de-investigacion/images/mec2.png">
+<img src="/Taller-de-investigacion/images/mec2.png">
 </div>
 
 <div class="gallery-item tall">
-<img src="Taller-de-investigacion/images/mec3.png">
+<img src="/Taller-de-investigacion/images/mec3.png">
 </div>
 
 <div class="gallery-item wide">
-<img src="Taller-de-investigacion/images/mec4.png">
+<img src="/Taller-de-investigacion/images/mec4.png">
 </div>
 
 <div class="gallery-item wide">
-<img src="Taller-de-investigacion/images/mec5.png">
+<img src="/Taller-de-investigacion/images/mec5.png">
 </div>
 
 <div class="gallery-item">
-<img src="Taller-de-investigacion/images/mec6.png">
+<img src="/Taller-de-investigacion/images/mec6.png">
 </div>
 
 <div class="gallery-item big">
-<img src="Taller-de-investigacion/images/mec7.png">
+<img src="/Taller-de-investigacion/images/mec7.png">
 </div>
 
 <div class="gallery-item tall">
-<img src="Taller-de-investigacion/images/mec8.png">
+<img src="/Taller-de-investigacion/images/mec8.png">
 </div>
 
 </div>
