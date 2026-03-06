@@ -153,35 +153,35 @@ Dentro de las actividades académicas vinculadas al área de materiales destacan
 <div class="gallery">
 
 <div class="gallery-item big">
-<img src="/src/assets/mec1.png">
+<img src="../../assets/mec1.png">
 </div>
 
 <div class="gallery-item">
-<img src="/src/assets/mec2.png">
+<img src="../../assets/mec2.png">
 </div>
 
 <div class="gallery-item tall">
-<img src="/src/assets/mec3.png">
+<img src="../../assets/mec3.png">
 </div>
 
 <div class="gallery-item wide">
-<img src="/src/assets/mec4.png">
+<img src="../../assets/mec4.png">
 </div>
 
 <div class="gallery-item wide">
-<img src="/src/assets/mec5.png">
+<img src="../../assets/mec5.png">
 </div>
 
 <div class="gallery-item">
-<img src="/src/assets/mec6.png">
+<img src="../../assets/mec6.png">
 </div>
 
 <div class="gallery-item big">
-<img src="/src/assets/mec7.png">
+<img src="../../assets/mec7.png">
 </div>
 
 <div class="gallery-item tall">
-<img src="/src/assets/mec8.png">
+<img src="../../assets/mec8.png">
 </div>
 
 </div>

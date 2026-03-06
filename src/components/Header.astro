@@ -1,14 +1,16 @@
 ---
 import { SITE_TITLE } from '../consts';
-// import HeaderLink from './HeaderLink.astro';
+
+const logoTec = `${import.meta.env.BASE_URL}/assets/logo_tec.png`;
+const logoTecSal = `${import.meta.env.BASE_URL}/assets/logo_tec_sal.png`;
 ---
 
 <header>
 	<nav>
 		<h2><a href="/">{SITE_TITLE}</a></h2>
 		<div class="social-links">
-			<img src="/src/assets/logo_tec.png" width="48px" height="48px" />
-			<img src="/src/assets/logo_tec_sal.png" width="48px" height="48px" />
+			<img src={logoTec} width="48px" height="48px" />
+			<img src={logoTecSal} width="48px" height="48px" />
 		</div>
 	</nav>
 </header>
