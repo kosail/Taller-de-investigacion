@@ -42,7 +42,7 @@ Durante su administración se impulsó el desarrollo académico del tecnológico
 
 <div style="text-align: center;">
 
-![Herrera Perez](../../assets/herrera_perez.png)
+![Herrera Perez](Taller-de-investigacion/src/assets/herrera_perez.png)
 
 <p style="font-size: 0.9rem; color: gray;">Fotografía de Carlos Herrera Pérez</p>
 </div>
@@ -64,7 +64,7 @@ El laboratorio también cuenta con personal especializado en ciencias de materia
 
 <div style="text-align: center;">
 
-![Organigrama del Laboratorio de materiales](../../assets/organi_materiales.png)
+![Organigrama del Laboratorio de materiales](Taller-de-investigacion/src/assets/organi_materiales.png)
 
 <p style="font-size: 0.9rem; color: gray;">Organigrama del Laboratorio de materiales</p>
 </div>
@@ -153,35 +153,35 @@ Dentro de las actividades académicas vinculadas al área de materiales destacan
 <div class="gallery">
 
 <div class="gallery-item big">
-<img src="/src/assets/mec1.png">
+<img src="Taller-de-investigacion/src/assets/mec1.png">
 </div>
 
 <div class="gallery-item">
-<img src="/src/assets/mec2.png">
+<img src="Taller-de-investigacion/src/assets/mec2.png">
 </div>
 
 <div class="gallery-item tall">
-<img src="/src/assets/mec3.png">
+<img src="Taller-de-investigacion/src/assets/mec3.png">
 </div>
 
 <div class="gallery-item wide">
-<img src="/src/assets/mec4.png">
+<img src="Taller-de-investigacion/src/assets/mec4.png">
 </div>
 
 <div class="gallery-item wide">
-<img src="/src/assets/mec5.png">
+<img src="Taller-de-investigacion/src/assets/mec5.png">
 </div>
 
 <div class="gallery-item">
-<img src="/src/assets/mec6.png">
+<img src="Taller-de-investigacion/src/assets/mec6.png">
 </div>
 
 <div class="gallery-item big">
-<img src="/src/assets/mec7.png">
+<img src="Taller-de-investigacion/src/assets/mec7.png">
 </div>
 
 <div class="gallery-item tall">
-<img src="/src/assets/mec8.png">
+<img src="Taller-de-investigacion/src/assets/mec8.png">
 </div>
 
 </div>

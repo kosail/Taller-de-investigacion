@@ -162,35 +162,35 @@ Para garantizar el uso adecuado de las instalaciones, los usuarios deben seguir 
 <div class="gallery">
 
 <div class="gallery-item big">
-<img src="/src/assets/mat1.png">
+<img src="Taller-de-investigacion/src/assets/mat1.png">
 </div>
 
 <div class="gallery-item">
-<img src="/src/assets/mat2.png">
+<img src="Taller-de-investigacion/src/assets/mat2.png">
 </div>
 
 <div class="gallery-item tall">
-<img src="/src/assets/mat3.png">
+<img src="Taller-de-investigacion/src/assets/mat3.png">
 </div>
 
 <div class="gallery-item wide">
-<img src="/src/assets/mat9.png">
+<img src="Taller-de-investigacion/src/assets/mat9.png">
 </div>
 
 <div class="gallery-item wide">
-<img src="/src/assets/mat5.png">
+<img src="Taller-de-investigacion/src/assets/mat5.png">
 </div>
 
 <div class="gallery-item">
-<img src="/src/assets/mat6.png">
+<img src="Taller-de-investigacion/src/assets/mat6.png">
 </div>
 
 <div class="gallery-item big">
-<img src="/src/assets/mat7.png">
+<img src="Taller-de-investigacion/src/assets/mat7.png">
 </div>
 
 <div class="gallery-item tall">
-<img src="/src/assets/mat8.png">
+<img src="Taller-de-investigacion/src/assets/mat8.png">
 </div>
 
 </div>
