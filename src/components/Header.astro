@@ -1,13 +1,15 @@
 ---
 import { SITE_TITLE } from '../consts';
 
-const logoTec = `${import.meta.env.BASE_URL}/assets/logo_tec.png`;
-const logoTecSal = `${import.meta.env.BASE_URL}/assets/logo_tec_sal.png`;
+
+const baseUrl = `${import.meta.env.BASE_URL}`;
+const logoTec = `${import.meta.env.BASE_URL}/images/logo_tec.png`;
+const logoTecSal = `${import.meta.env.BASE_URL}/images/logo_tec_sal.png`;
 ---
 
 <header>
 	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
+		<h2><a href={baseUrl}>{SITE_TITLE}</a></h2>
 		<div class="social-links">
 			<img src={logoTec} width="48px" height="48px" />
 			<img src={logoTecSal} width="48px" height="48px" />
