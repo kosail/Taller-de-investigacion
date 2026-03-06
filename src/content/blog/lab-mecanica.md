@@ -47,12 +47,17 @@ El laboratorio también recopila retroalimentación de los estudiantes mediante 
 #### Horario de uso
 
 **Turno matutino**
+
 7:00 a.m. a 2:45 p.m.
 
+
 **Turno vespertino**
+
 2:00 p.m. a 9:00 p.m.
 
+
 **Horario de acceso para estudiantes**
+
 7:00 a.m. a 9:00 p.m.
 
 
@@ -162,35 +167,35 @@ Para garantizar el uso adecuado de las instalaciones, los usuarios deben seguir 
 <div class="gallery">
 
 <div class="gallery-item big">
-<img src="/images/mat1.png">
+<img src="Taller-de-investigacion/images/mat1.png">
 </div>
 
 <div class="gallery-item">
-<img src="/images/mat2.png">
+<img src="Taller-de-investigacion/images/mat2.png">
 </div>
 
 <div class="gallery-item tall">
-<img src="/images/mat3.png">
+<img src="Taller-de-investigacion/images/mat3.png">
 </div>
 
 <div class="gallery-item wide">
-<img src="/images/mat9.png">
+<img src="Taller-de-investigacion/images/mat9.png">
 </div>
 
 <div class="gallery-item wide">
-<img src="/images/mat5.png">
+<img src="Taller-de-investigacion/images/mat5.png">
 </div>
 
 <div class="gallery-item">
-<img src="/images/mat6.png">
+<img src="Taller-de-investigacion/images/mat6.png">
 </div>
 
 <div class="gallery-item big">
-<img src="/images/mat7.png">
+<img src="Taller-de-investigacion/images/mat7.png">
 </div>
 
 <div class="gallery-item tall">
-<img src="/images/mat8.png">
+<img src="Taller-de-investigacion/images/mat8.png">
 </div>
 
 </div>
