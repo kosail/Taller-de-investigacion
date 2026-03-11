@@ -1,0 +1,19 @@
+# Change baseurl before deploy
+baseurl = "https://kosail.github.io/Taller-de-investigacion"
+languageCode = "es-mx"
+title = "Taller de investigación 12 M"
+
+# Theme i18n support
+# Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
+defaultContentLanguage = "es-mx"
+
+# Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
+# This will make .Summary and .WordCount behave correctly for CJK languages.
+hasCJKLanguage = false
+
+[pagination]
+pagerSize = 5
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
