@@ -3,7 +3,7 @@ date = '2026-03-10T00:50:53-06:00'
 draft = false
 title = 'Acerca de nosotros'
 author = "David S."
-image = "cover.jpg"
+image = "cover.webp"
 weight = 2
 
 [menu]
