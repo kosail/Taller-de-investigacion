@@ -3,7 +3,7 @@ date = '2026-03-11T00:50:53-06:00'
 draft = false
 title = 'Laboratorio de materiales'
 author = "David S."
-image = "cover.png"
+image = "cover.webp"
 weight = 1
 
 [menu]
@@ -25,17 +25,13 @@ Es importante notar que este laboratorio está compuesto del laboratorio de meta
 
 
 ## Historia
----
 
 ### Los inicios: La carrera Ingeniería en Metalurgia
 Entre 1973 y 1976, Rodolfo Rosas Morales estuvo al frente del entonces Instituto Tecnológico Regional de Coahuila, hoy conocido como Tecnológico Nacional de México Campus Saltillo. Su gestión comenzó poco después de que la institución celebrara sus primeros 20 años de historia, en un momento clave de transformación para el sistema de institutos tecnológicos en el país.
 
-<div style="text-align: center;">
 
-![Rodolfo Rosas Morales](images/rosas_morales.png)
+![Rodolfo Rosas Morales](images/rosas_morales.webp)
 
-<p style="font-size: 0.9rem; color: gray;">Fotografía de Rodolfo Rosas Morales</p>
-</div>
 
 Durante su dirección, Rosas Morales impulsó de manera importante la Primera Reforma Educativa dentro de los Institutos Tecnológicos, participando activamente en su implementación y promoviendo cambios académicos que buscaban modernizar la formación de los estudiantes. Uno de los avances más destacados de este periodo fue la creación del Centro de Idiomas, una iniciativa que amplió las oportunidades de preparación para la comunidad estudiantil.
 
@@ -51,40 +47,31 @@ Entre noviembre de 1981 y noviembre de 1983, Carlos Herrera Pérez asumió la di
 
 Durante su administración se impulsó el desarrollo académico del tecnológico, en un contexto en el que el sistema de institutos tecnológicos del país continuaba creciendo. En este periodo también se consolidó el cambio de denominación de la institución, pasando de llamarse Instituto Tecnológico Regional de Coahuila a Instituto Tecnológico de Saltillo, nombre con el que se le conoce actualmente.
 
-<div style="text-align: center;">
 
-![Herrera Perez](images/herrera_perez.png)
+![Herrera Perez](images/herrera_perez.webp)
 
-<p style="font-size: 0.9rem; color: gray;">Fotografía de Carlos Herrera Pérez</p>
-</div>
 
 Uno de los enfoques importantes de su gestión fue el fortalecimiento del posgrado en metalurgia. Para ello, **se reforzó la planta docente de la Maestría en Metalurgia** con la incorporación de doctores en Ciencias de Metalurgia provenientes de la Universidad de Minas de Cracovia, en Polonia. Esta colaboración académica contribuyó a elevar el nivel de especialización y de investigación dentro del instituto.
 
 En el ámbito de infraestructura, durante su dirección también se concluyeron proyectos relevantes para la comunidad tecnológica. Se inauguró la alberca olímpica, cuya construcción había sido iniciada por Luis Rosales Celis, y se promovió la **creación e inauguración del Laboratorio de Investigación en Metalurgia**, un espacio clave para el desarrollo científico en esta área dentro de la institución.
 
 ## La actualidad
----
 
 El laboratorio de materiales del Instituto Tecnológico de Saltillo **está orientado principalmente a la formación práctica de los estudiantes de la carrera de Ingeniería en Materiales**. Su funcionamiento responde a un objetivo claro: complementar la formación teórica mediante el uso de equipo especializado y prácticas experimentales relacionadas con el estudio, caracterización y comportamiento de distintos materiales.
 
 El acceso al laboratorio está regulado para garantizar tanto la seguridad de los usuarios como el uso adecuado de las instalaciones. Por ello, está destinado principalmente a estudiantes de Ingeniería en Materiales que ya hayan cursado y aprobado una serie de asignaturas fundamentales dentro de su formación, entre ellas física del estado sólido, termodinámica aplicada a materiales, caracterización estructural, comportamiento mecánico de materiales, diagramas de equilibrio, fenómenos de transporte y técnicas de análisis, entre otras materias clave del área.
 
-![Reticula de la carrera de Ingeniería en materiales](images/materiales_reticula.jpg)
+![Reticula de la carrera de Ingeniería en materiales](images/materiales_reticula.webp)
 
 **Además del requisito académico, el uso del laboratorio exige el cumplimiento estricto de normas de seguridad**. Los estudiantes deben contar con equipo de protección personal adecuado, como guantes resistentes a productos químicos, gafas de seguridad, bata de laboratorio y calzado cerrado, elementos indispensables para realizar prácticas de forma segura.
 
 El laboratorio también cuenta con personal especializado en ciencias de materiales. Su equipo está integrado por un jefe de laboratorio, técnicos especializados y asistentes de investigación que brindan apoyo durante las prácticas, además de colaborar en proyectos académicos y de investigación que se desarrollan dentro de estas instalaciones. Este soporte técnico resulta clave para el correcto funcionamiento del laboratorio y para el aprovechamiento académico de los estudiantes.
 
-<div style="text-align: center;">
 
-![Organigrama del Laboratorio de materiales](images/organi_materiales.png)
-
-<p style="font-size: 0.9rem; color: gray;">Organigrama del Laboratorio de materiales</p>
-</div>
+![Organigrama del Laboratorio de materiales](images/organi_materiales.webp)
 
 
 ### Información importante
----
 
 #### Horario de uso
 El laboratorio está disponible para prácticas programadas de **lunes a viernes, en un horario de 8:00 a.m. a 6:00 p.m**. En el caso de proyectos de investigación o actividades especiales, es posible solicitar horarios extendidos, siempre con autorización previa.
@@ -98,14 +85,13 @@ Dentro de las actividades académicas vinculadas al área de materiales destacan
 
 
 ### Fotografías del laboratorio
----
 
-![Fotografía de laboratorio 1](images/mat1.png)
-![Fotografía de laboratorio 2](images/mat2.png)
-![Fotografía de laboratorio 3](images/mat3.png)
-![Fotografía de laboratorio 4](images/mat4.png)
-![Fotografía de laboratorio 5](images/mat5.png)
-![Fotografía de laboratorio 6](images/mat6.png)
-![Fotografía de laboratorio 7](images/mat7.png)
-![Fotografía de laboratorio 8](images/mat8.png)
-![Fotografía de laboratorio 9](images/mat9.png)
+![Fotografía de laboratorio 1](images/mat1.webp)
+![Fotografía de laboratorio 2](images/mat2.webp)
+![Fotografía de laboratorio 3](images/mat3.webp)
+![Fotografía de laboratorio 4](images/mat4.webp)
+![Fotografía de laboratorio 5](images/mat5.webp)
+![Fotografía de laboratorio 6](images/mat6.webp)
+![Fotografía de laboratorio 7](images/mat7.webp)
+![Fotografía de laboratorio 8](images/mat8.webp)
+![Fotografía de laboratorio 9](images/mat9.webp)

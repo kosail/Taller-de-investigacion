@@ -3,7 +3,7 @@ date = '2026-03-11T00:50:53-06:00'
 draft = false
 title = 'Laboratorio de mecánica'
 author = "David S."
-image = "cover.png"
+image = "cover.webp"
 weight = 2
 
 [menu]
@@ -24,7 +24,6 @@ El espacio cuenta con personal encargado de apoyar el desarrollo de las práctic
 
 
 ## Historia
----
 
 El Laboratorio de Mecánica fue creado en el año 1970 con el objetivo de fortalecer la enseñanza práctica en las áreas relacionadas con la ingeniería mecánica dentro del instituto. A lo largo de su historia ha sido dirigido por distintos responsables que han contribuido al desarrollo y mantenimiento del espacio.
 
@@ -32,7 +31,6 @@ Desde 1998 el laboratorio se encuentra bajo la dirección del encargado actual, 
 
 
 ## La actualidad
----
 
 Actualmente el laboratorio cuenta con diferentes áreas especializadas que permiten realizar prácticas en distintos campos de la ingeniería mecánica. Entre los principales sublaboratorios y equipos disponibles se encuentran:
 
@@ -52,7 +50,6 @@ El laboratorio también recopila retroalimentación de los estudiantes mediante 
 
 
 ### Información importante
----
 
 #### Horario de uso
 
@@ -99,14 +96,13 @@ Para garantizar el uso adecuado de las instalaciones, los usuarios deben seguir 
 
 
 ### Fotografías del laboratorio
----
 
-![Fotografía de laboratorio 1](images/mec1.png)
-![Fotografía de laboratorio 2](images/mec2.png)
-![Fotografía de laboratorio 3](images/mec3.png)
-![Fotografía de laboratorio 4](images/mec4.png)
-![Fotografía de laboratorio 5](images/mec5.png)
-![Fotografía de laboratorio 6](images/mec6.png)
-![Fotografía de laboratorio 7](images/mec7.png)
-![Fotografía de laboratorio 8](images/mec8.png)
-![Fotografía de laboratorio 9](images/mec9.png)
+![Fotografía de laboratorio 1](images/mec1.webp)
+![Fotografía de laboratorio 2](images/mec2.webp)
+![Fotografía de laboratorio 3](images/mec3.webp)
+![Fotografía de laboratorio 4](images/mec4.webp)
+![Fotografía de laboratorio 5](images/mec5.webp)
+![Fotografía de laboratorio 6](images/mec6.webp)
+![Fotografía de laboratorio 7](images/mec7.webp)
+![Fotografía de laboratorio 8](images/mec8.webp)
+![Fotografía de laboratorio 9](images/mec9.webp)
